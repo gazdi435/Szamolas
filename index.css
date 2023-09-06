@@ -1,0 +1,40 @@
+#nagyDiv{
+    background-color: rgba(62, 5, 116, 0.507);
+    border-radius: 10px;
+    border: 3px black solid;
+    width: 15cm;
+    height: 10cm;
+    font-size: large;
+    margin-left: auto;
+    margin-right: auto;
+    color: aliceblue;
+     padding-top: 1cm;
+}
+
+#kapacitasDiv{
+    width: 10cm;
+    margin-left: auto;
+    margin-top: 1cm;
+    margin-right: auto;
+    padding-bottom: 1cm;
+}
+
+#atvitelDiv{
+    width: 10cm;
+    margin-left: auto;
+    margin-top: 1cm;
+    margin-right: auto;
+}
+#eredmenyDiv{
+    width: 10cm;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1cm;
+    text-align: center;
+}
+
+body{
+    background-image: url(hdd.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
